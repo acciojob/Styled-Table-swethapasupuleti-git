@@ -1,1 +1,16 @@
 /* your code */
+table{
+	text-align: center;
+	border-color:royalblue;
+}
+thead{
+	background-color:cadetblue;
+	color: black;
+	
+}
+tbody{
+	background-color: aliceblue;
+}
+td{
+	padding: 10px;
+}
